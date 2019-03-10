@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FIXME</title>
+    <title>Fake Unconf</title>
     <link>/</link>
-    <description>Recent content on FIXME</description>
+    <description>Recent content on Fake Unconf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -43,7 +43,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/</guid>
-      <description> YOUR EVENT NAME HERE Projects  ❓ project name If there are any projects that you know are missing please fork this repo on GitHub, make changes to this document (content/projects.Rmd), and then send a pull request.
+      <description>YOUR EVENT NAME HERE Projects  ❓ project name If there are any projects that you know are missing please fork this repo on GitHub, make changes to this document (content/projects.Rmd), and then send a pull request.
   </description>
     </item>
     
